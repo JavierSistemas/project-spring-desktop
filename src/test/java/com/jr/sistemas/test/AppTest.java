@@ -1,4 +1,4 @@
-package com.jr.sistemas.project_spring_desktop;
+package com.jr.sistemas.test;
 
 import static org.junit.Assert.assertTrue;
 
